@@ -3,9 +3,9 @@ echo ""
 echo ""
 echo ""
 echo "##########################"
-echo 'get all     '
-echo '##########################'
-kubectl get all --all-namespaces
+echo "get all     "
+echo "##########################"
+microk8s kubectl get all --all-namespaces
 
 echo ''
 echo ''
