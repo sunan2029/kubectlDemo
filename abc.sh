@@ -1,15 +1,11 @@
 #!/bin/bash
-
-echo ''
-echo ''
-echo ''
-echo '##########################'
+echo ""
+echo ""
+echo ""
+echo "##########################"
 echo 'get all     '
 echo '##########################'
-
 kubectl get all --all-namespaces
-
-
 
 echo ''
 echo ''
