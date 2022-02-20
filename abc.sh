@@ -1,22 +1,2 @@
-echo ""
-echo ""
-echo ""
-echo "##########################"
-echo "get all     "
-echo "##########################"
 microk8s kubectl get all --all-namespaces
-
-echo ''
-echo ''
-echo ''
-echo '##########################'
-echo 'get node     '
-echo '##########################'
-
-kubectl get node
-
-
-echo ''
-echo ''
-echo ''
-
+microk8s kubectl get node
