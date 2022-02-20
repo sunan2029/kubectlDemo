@@ -1,5 +1,3 @@
-echo $PATH
-
 echo ""
 echo ""
 echo ""
