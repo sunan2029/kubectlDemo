@@ -1,0 +1,5 @@
+Somkiat Puisungnoen10:31 AM
+
+cluster.routing.allocation.disk.watermark.low: 99%
+cluster.routing.allocation.disk.watermark.high: 99%
+cluster.routing.allocation.disk.watermark.flood_stage: 99%
